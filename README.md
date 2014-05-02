@@ -16,7 +16,7 @@ Here is a static HTML page of what a result may look like: [http://link.thephpjo
 3. Be sure, that your memory limit in your php.ini is high enough
 4. Execute
 
-## Results you ma have
+## Results you may have
 
 Of course the results vary from run to run, but it comes down to this:
 
