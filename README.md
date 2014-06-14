@@ -7,7 +7,7 @@ However, for non-cryptographic uses there are hashes faster than md5. With this 
 
 ## Se results
 
-Here is a static HTML page of what a result may look like: [http://link.thephpjo.de/hash/](http://link.thephpjo.de/hash/)
+Here is a static HTML page of what a result may look like: [http://link.thephpjo.de/hash/](http://link.thephpjo.de/hash/) _(results on a 2013 MacBook air with PHP 5.4)_
 
 ## How to test them
 
